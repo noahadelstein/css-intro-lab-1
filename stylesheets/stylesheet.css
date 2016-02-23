@@ -25,7 +25,7 @@ body {
 
 
 
-.container section {
+.container .page-header {
   background-color: yellow;
 }
 section {
