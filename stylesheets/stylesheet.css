@@ -25,8 +25,8 @@ body {
 
 
 
-div section {
-  background-color: blue;
+.container section {
+  background-color: yellow;
 }
 section {
     margin: 3em 0;
